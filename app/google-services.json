@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "184151786973",
+    "firebase_url": "https://stable-synapse-203613.firebaseio.com",
+    "project_id": "stable-synapse-203613",
+    "storage_bucket": "stable-synapse-203613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184151786973:android:ea3e7e5b96eaa661c8e234",
+        "android_client_info": {
+          "package_name": "com.example.fitnessappactions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184151786973-fj811bpcuitmvahv0gi8d10b8aei16pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAGNWaZCtiWzFUA9ns386ROpmS60Z3jDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184151786973-fj811bpcuitmvahv0gi8d10b8aei16pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

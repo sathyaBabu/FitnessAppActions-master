@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/selected"
+        android:drawable="@drawable/vd_stop"
+        android:state_selected="true" />
+
+    <item
+        android:id="@+id/normal"
+        android:drawable="@drawable/vd_start" />
+
+    <transition
+        android:drawable="@drawable/avd_start_stop_toggle"
+        android:fromId="@id/normal"
+        android:toId="@id/selected" />
+
+</animated-selector>
